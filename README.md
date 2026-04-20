@@ -2,10 +2,6 @@
 👋 Halo! Saya seorang Junior Backend Enthusiast & AI Learner💡logic bekerja di balik layar. Fokus utama saya saat <br>ini adalah membangun sistem backend yang solid<br>API cerdas dan model logika Python.<br><br>🌱 Fokus saat ini: Mengembangkan arsitektur backend<br>tingkat lanjut (seperti Multi-tenancy) dan mempelajari cara kerja AI agents dalam mengambil keputusan.<br>⚡
 
 
-# 💫 About Me Chilmi89:
-👋 Halo! Saya seorang Junior Backend Enthusiast & AI Learner💡logic bekerja di balik layar. Fokus utama saya saat <br>ini adalah membangun sistem backend yang solid<br>API cerdas dan model logika Python.<br><br>🌱 Fokus saat ini: Mengembangkan arsitektur backend<br>tingkat lanjut (seperti Multi-tenancy) dan mempelajari cara kerja AI agents dalam mengambil keputusan.<br>⚡
-
-
 # 💻 Tech Stack:
 
 ### ⚙️ Backend & Frameworks
@@ -34,15 +30,3 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=chilmi89&icon=8&color=10)](https://visitcount.itsvg.in)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=chilmi89&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=chilmi89&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=chilmi89&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
----
-[![](https://komarev.com/ghpvc/?username=chilmi89&icon=8&color=10)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
