@@ -1,17 +1,17 @@
-# 💫 About Me
+# 💫 About Me Chilmi89:
 👋 Halo! Saya seorang **Junior Backend Engineer Enthusiast & AI Learner**
 
 💡 Fokus saya adalah membangun **sistem backend yang solid**, merancang **API yang efisien**, serta mengembangkan **logika sistem yang scalable dan maintainable**.
 
-🌱 Saat ini saya juga mempelajari bagaimana **AI agents bekerja dalam pengambilan keputusan**, khususnya dalam konteks backend dan automation.
+🌱 Saat ini saya mempelajari **AI agents dan decision-making system** untuk diintegrasikan ke dalam backend.
 
 ---
 
-# 💻 Tech Stack
+# 💻 Tech Stack:
 
-### ⚙️ Backend & Core Languages
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+### ⚙️ Backend & Core
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
@@ -37,7 +37,7 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=chilmi89&theme=dark&hide_border=true&include_all_commits=true)<br/>
 ![](https://streak-stats.demolab.com/?user=chilmi89&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=chilmi89&theme=dark&hide_border=true&layout=compact)
@@ -46,3 +46,7 @@
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+
+---
+
+[![](https://komarev.com/ghpvc/?username=chilmi89&icon=8&color=10)](https://visitcount.itsvg.in)
